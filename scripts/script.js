@@ -11,7 +11,7 @@ const contactLink = document.querySelector('.contact-link');
 
 
 nav.addEventListener('mouseover', () => {
-    nav.style.background = 'rgb(3, 27, 3)';
+    nav.style.background = 'rgb(2, 22, 2)';
     homeLink.style.color = 'rgb(248, 242, 208)';
     menuLink.style.color = 'rgb(248, 242, 208)';
     storyLink.style.color = 'rgb(248, 242, 208)';
