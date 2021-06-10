@@ -92,7 +92,7 @@ nav:hover {
 
 .navbar li:focus, .navbar li:hover {
     /* text-shadow: 2px 19px 0px rgba(243, 255, 217, 0.35); */
-    text-shadow: 4px 20px 0px rgba(248, 242, 208, 0.35);
+    text-shadow: 5px 22px 0px rgba(248, 242, 208, 0.35);
     transform: translateX(15px);
     /* color: rgb(243, 255, 217); */
 }
